@@ -25,7 +25,7 @@
 <details>
     <summary>⌚ Total Time taken to develop ( Contributing guide , readme and adding contributions )</summary>
 
-    Mine :  
+    Mine :  2 hr 43 min 48 sec 
 
     Contributor 1 : 
 
