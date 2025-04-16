@@ -166,7 +166,7 @@ Thank you again for contributing to Terminal Trove! Your efforts are greatly app
 
 ===========================================================================
 
-
+- [act3](GITHUB_LINK_OF_REPO) - Glance at the last 3 runs of your Github Actions. EMOJI_HERE
 - [adguardian-term](GITHUB_LINK_OF_REPO) - An AdGuard Home terminal monitoring tool. EMOJI_HERE
 - [aerc](GITHUB_LINK_OF_REPO) - A pretty good email client. EMOJI_HERE
 - [age](GITHUB_LINK_OF_REPO) - A simple, modern and secure file encryption tool. EMOJI_HERE
