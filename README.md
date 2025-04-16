@@ -164,7 +164,7 @@ Thank you again for contributing to Terminal Trove! Your efforts are greatly app
 
 
 
-============================================================================================
+===========================================================================
 
 
 - [adguardian-term](GITHUB_LINK_OF_REPO) - An AdGuard Home terminal monitoring tool. EMOJI_HERE
