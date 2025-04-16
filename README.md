@@ -165,3 +165,124 @@ Thank you again for contributing to Terminal Trove! Your efforts are greatly app
 
 
 ============================================================================================
+
+
+- [adguardian-term](GITHUB_LINK_OF_REPO) - An AdGuard Home terminal monitoring tool. EMOJI_HERE
+- [aerc](GITHUB_LINK_OF_REPO) - A pretty good email client. EMOJI_HERE
+- [age](GITHUB_LINK_OF_REPO) - A simple, modern and secure file encryption tool. EMOJI_HERE
+- [aichat](GITHUB_LINK_OF_REPO) - all:in:one AI powered CLI chat and copilot. EMOJI_HERE
+- [aider](GITHUB_LINK_OF_REPO) - AI pair programming in your terminal EMOJI_HERE
+- [aim](GITHUB_LINK_OF_REPO) - A command line download/upload tool with resume. EMOJI_HERE
+- [ali](GITHUB_LINK_OF_REPO) - A load testing tool capable of performing real:time analysis. EMOJI_HERE
+- [amfora](GITHUB_LINK_OF_REPO) - A fancy terminal browser for the Gemini protocol. EMOJI_HERE
+- [amp](GITHUB_LINK_OF_REPO/) - A complete text editor for your terminal. EMOJI_HERE
+- [angryoxide](GITHUB_LINK_OF_REPO) - A WiFi attack and pentesting tool built in Rust. EMOJI_HERE
+- [arduino:cli:interactive](GITHUB_LINK_OF_REPO) - An Interactive way to use the arduino:cli. EMOJI_HERE
+- [aria2](GITHUB_LINK_OF_REPO) - The ultra fast download utility. EMOJI_HERE
+- [asciinema](GITHUB_LINK_OF_REPO) - A terminal session recorder. EMOJI_HERE
+- [asn](GITHUB_LINK_OF_REPO) - ASN lookup tool and traceroute server EMOJI_HERE
+- [astroterm](GITHUB_LINK_OF_REPO) - A terminal:based star map. EMOJI_HERE
+- [atac](GITHUB_LINK_OF_REPO) - A simple API client (postman like) in your terminal. EMOJI_HERE
+- [atop](GITHUB_LINK_OF_REPO) - An advanced interactive monitor for linux systems. EMOJI_HERE
+- [atuin](GITHUB_LINK_OF_REPO) - Sync, search and backup shell history. EMOJI_HERE
+
+
+### B
+
+- [bacon](GITHUB_LINK_OF_REPO) - A background rust code checker. EMOJI_HERE
+- [bagels](GITHUB_LINK_OF_REPO) - A powerful expense tracker that lives in your terminal. EMOJI_HERE
+- [ballast](GITHUB_LINK_OF_REPO) - A tool for snapshot load testing APIs. EMOJI_HERE
+- [bandwhich](GITHUB_LINK_OF_REPO) - Terminal bandwidth utilization tool EMOJI_HERE
+- [basilk](GITHUB_LINK_OF_REPO) - A TUI to manage your tasks with minimal kanban logic. EMOJI_HERE
+- [bat](GITHUB_LINK_OF_REPO) - A cat(1) clone with wings. EMOJI_HERE
+- [bbcli](GITHUB_LINK_OF_REPO) - A TUI for accessing BBC News in the terminal. EMOJI_HERE
+- [bcal](GITHUB_LINK_OF_REPO) - Bits, bytes and address calculator. EMOJI_HERE
+- [bibiman](GITHUB_LINK_OF_REPO) - A simple TUI for handling your BibLaTeX database. EMOJI_HERE
+- [binsider](GITHUB_LINK_OF_REPO) - Analyze ELF binaries like a boss. EMOJI_HERE
+- [bkp](GITHUB_LINK_OF_REPO) - Utility that makes backups of your files/directories. EMOJI_HERE
+- [blink](GITHUB_LINK_OF_REPO) - tiniest x86-64-linux emulator. EMOJI_HERE
+- [bluetui](GITHUB_LINK_OF_REPO) - TUI for managing bluetooth on Linux. EMOJI_HERE
+- [bluetuith](GITHUB_LINK_OF_REPO) - A TUI bluetooth manager for Linux. EMOJI_HERE
+- [bmm](GITHUB_LINK_OF_REPO) - Get to your bookmarks in a flash. EMOJI_HERE
+- [bmon](GITHUB_LINK_OF_REPO) - Bandwidth monitor and rate estimator EMOJI_HERE
+- [bombadillo](GITHUB_LINK_OF_REPO) - A non-web client for the terminal, supporting Gopher, Gemini and much more. EMOJI_HERE
+- [bottom](GITHUB_LINK_OF_REPO) - Yet another cross-platform graphical process/system monitor. EMOJI_HERE
+- [braindrop](GITHUB_LINK_OF_REPO) - A terminal-based client for raindrop.io. EMOJI_HERE
+- [broot](GITHUB_LINK_OF_REPO) - A new way to see and navigate directory trees. EMOJI_HERE
+- [brows](GITHUB_LINK_OF_REPO) - A GitHub releases browser for the terminal EMOJI_HERE
+- [browsr](GITHUB_LINK_OF_REPO) - A pleasant file explorer in your terminal supporting all filesystems. EMOJI_HERE
+- [bt](GITHUB_LINK_OF_REPO) - Interactive tree-like terminal file manager. EMOJI_HERE
+- [btop](GITHUB_LINK_OF_REPO) - A terminal monitor of resources. EMOJI_HERE
+- [buku](GITHUB_LINK_OF_REPO) - Personal mini-web in text EMOJI_HERE
+- [byobu](GITHUB_LINK_OF_REPO) - Text-based window manager and terminal multiplexer EMOJI_HERE
+
+### C
+
+- [calcure](GITHUB_LINK_OF_REPO) - Modern, customizable TUI calendar and task manager. EMOJI_HERE
+- [calcurse](GITHUB_LINK_OF_REPO) - A calendar and scheduling application for the command line. EMOJI_HERE
+- [caligula](GITHUB_LINK_OF_REPO) - A user:friendly, lightweight TUI for disk imaging. EMOJI_HERE
+- [caps:log](GITHUB_LINK_OF_REPO) - A small TUI journaling tool. EMOJI_HERE
+- [carbon:now:cli](GITHUB_LINK_OF_REPO) - generate beautiful images of your code from right inside your terminal. EMOJI_HERE
+- [cargo:selector](GITHUB_LINK_OF_REPO) - Cargo subcommand to select and execute binary/example targets. EMOJI_HERE
+- [carl](GITHUB_LINK_OF_REPO) - a cal(1) alternative calendar for the command:line. EMOJI_HERE
+- [castero](GITHUB_LINK_OF_REPO) - A TUI podcast client for the terminal. EMOJI_HERE
+- [cava](GITHUB_LINK_OF_REPO) - Cross:platform Audio Visualizer for Alsa EMOJI_HERE
+- [cgdb](GITHUB_LINK_OF_REPO) - A curses (terminal:based) interface to the GNU Debugger (GDB) EMOJI_HERE
+- [chdig](GITHUB_LINK_OF_REPO) - Dig into ClickHouse with TUI interface. EMOJI_HERE
+- [chmod:cli](GITHUB_LINK_OF_REPO) - effortlessly generate chmod commands. EMOJI_HERE
+- [cidr](GITHUB_LINK_OF_REPO) - A CLI to perform various actions on CIDR ranges. EMOJI_HERE
+- [circumflex](GITHUB_LINK_OF_REPO) - It's Hacker News in your terminal. EMOJI_HERE
+- [clipboard](GITHUB_LINK_OF_REPO) - Your new, ridonkulously smart clipboard manager. EMOJI_HERE
+- [cloc](GITHUB_LINK_OF_REPO) - Count lines of code in many programming languages EMOJI_HERE
+- [cmus](GITHUB_LINK_OF_REPO) - Small, fast and powerful console music player for Unix:like operating systems. EMOJI_HERE
+- [cointop](GITHUB_LINK_OF_REPO) - cryptocurrency tracking for hackers that like htop. EMOJI_HERE
+- [cotp](GITHUB_LINK_OF_REPO) - trusted, encrypted, TOTP/HOTP authenticator with import functionality. EMOJI_HERE
+- [countryfetch](GITHUB_LINK_OF_REPO) - A neofetch:like tool for fetching information about your country. EMOJI_HERE
+- [cpufetch](GITHUB_LINK_OF_REPO) - Simple yet fancy CPU architecture fetching tool. EMOJI_HERE
+- [crates:tui](GITHUB_LINK_OF_REPO) - A TUI for exploring crates.io EMOJI_HERE
+- [croc](GITHUB_LINK_OF_REPO) - Easily and securely send things from one computer to another. EMOJI_HERE
+- [csvlens](GITHUB_LINK_OF_REPO) - a csv viewer like less but made for csv. EMOJI_HERE
+- [ctop](GITHUB_LINK_OF_REPO) - A top:like interface for container metrics. EMOJI_HERE
+- [cueitup](GITHUB_LINK_OF_REPO) - Inspect messages in an AWS SQS queue. EMOJI_HERE
+- [curl](GITHUB_LINK_OF_REPO) - A command line tool and library for transferring data. EMOJI_HERE
+- [curlie](GITHUB_LINK_OF_REPO) - The power of curl, the ease of use of httpie. EMOJI_HERE
+- [cy](GITHUB_LINK_OF_REPO) - A time traveling terminal multiplexer. EMOJI_HERE
+- [cyme](GITHUB_LINK_OF_REPO) - List system USB buses and devices. EMOJI_HERE
+
+
+### D
+
+- [daff](GITHUB_LINK_OF_REPO) - align and compare tables EMOJI_HERE
+- [dblab](GITHUB_LINK_OF_REPO) - The database client designed for command line specialists. EMOJI_HERE
+- [ddgr](GITHUB_LINK_OF_REPO) - DuckDuckGo from the terminal. EMOJI_HERE
+- [ddv](GITHUB_LINK_OF_REPO) - A TUI to view Amazon DynamoDB in the terminal. EMOJI_HERE
+- [delta](GITHUB_LINK_OF_REPO) - A viewer for git and diff output. EMOJI_HERE
+- [desed](GITHUB_LINK_OF_REPO) - Demystify and debug your sed scripts, from the comfort of your terminal. EMOJI_HERE
+- [devzat](GITHUB_LINK_OF_REPO) - A tool to chat over SSH. EMOJI_HERE
+- [diffnav](GITHUB_LINK_OF_REPO) - A git diff pager based on delta but with a file tree, à la GitHub. EMOJI_HERE
+- [difftastic](GITHUB_LINK_OF_REPO) - A structural diff that understands syntax EMOJI_HERE
+- [dijo](GITHUB_LINK_OF_REPO) - scriptable, curses-based, digital habit tracker. EMOJI_HERE
+- [diskonaut](GITHUB_LINK_OF_REPO) - terminal disk space navigator. EMOJI_HERE
+- [dive](GITHUB_LINK_OF_REPO) - A tool for exploring each layer in a docker image. EMOJI_HERE
+- [dns53](GITHUB_LINK_OF_REPO) - Expose your EC2 quickly, easily and privately within a VPC. EMOJI_HERE
+- [docfd](GITHUB_LINK_OF_REPO) - TUI multiline fuzzy document finder. EMOJI_HERE
+- [dog](GITHUB_LINK_OF_REPO) - A command:line DNS client. EMOJI_HERE
+- [doggo](GITHUB_LINK_OF_REPO) - A command:line DNS client for humans. EMOJI_HERE
+- [dolphie](GITHUB_LINK_OF_REPO) - Realtime MySQL health monitoring in the terminal. EMOJI_HERE
+- [dooit](GITHUB_LINK_OF_REPO) - A TUI todo manager for the terminal EMOJI_HERE
+- [dotenvhub](GITHUB_LINK_OF_REPO) - A TUI to manage your .env files in the terminal. EMOJI_HERE
+- [dra](GITHUB_LINK_OF_REPO) - A command line tool to download release assets from GitHub. EMOJI_HERE
+- [drft](GITHUB_LINK_OF_REPO) - A diff re/viewer and file tree viewer. EMOJI_HERE
+- [dry](GITHUB_LINK_OF_REPO) - A Docker manager for the terminal. EMOJI_HERE
+- [dstask](GITHUB_LINK_OF_REPO) - A CLI TODO manager with git:based sync + markdown notes. EMOJI_HERE
+- [dstp](GITHUB_LINK_OF_REPO) - Run common networking tests against any site. EMOJI_HERE
+- [dte](GITHUB_LINK_OF_REPO) - A small, configurable console text editor. EMOJI_HERE
+- [dua](GITHUB_LINK_OF_REPO) - View disk space usage and delete unwanted data, fast. EMOJI_HERE
+- [ducker](GITHUB_LINK_OF_REPO) - A slightly quackers Docker TUI. EMOJI_HERE
+- [duf](GITHUB_LINK_OF_REPO) - Disk Usage/Free Utility : a better 'df' alternative. EMOJI_HERE
+- [dug](GITHUB_LINK_OF_REPO) - A global DNS propagation checker on your CLI EMOJI_HERE
+- [dunk](GITHUB_LINK_OF_REPO) - Prettier git diffs in the terminal 🎨 EMOJI_HERE
+- [durdraw](GITHUB_LINK_OF_REPO) - Versatile ASCII and ANSI Art text editor for terminals. EMOJI_HERE
+- [dusage](GITHUB_LINK_OF_REPO) - A command line disk usage information tool. EMOJI_HERE
+- [dust](GITHUB_LINK_OF_REPO) - A more intuitive version of du in rust EMOJI_HERE
+- [dyff](GITHUB_LINK_OF_REPO) - diff tool for YAML files, and sometimes JSON. EMOJI_HERE
