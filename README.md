@@ -13,8 +13,6 @@
 
 </details>
 
----------------------
-
 <details>
   <summary>Why I created this</summary>
 
@@ -22,7 +20,7 @@
 
 </details>
 
----------------------
+
 
 <details>
     <summary>⌚ Total Time taken to develop ( Contributing guide , readme and adding contributions )</summary>
@@ -36,7 +34,7 @@
     Contributor  3: 
 </details>
 
----------------------
+
 
 <details>
   <summary>📞 Contact</summary>
@@ -45,7 +43,7 @@
 
 </details>
 
----------------------
+
 
 
 <details>
@@ -140,7 +138,7 @@ The primary way to contribute to this project is by adding new terminal tools to
 Thank you again for contributing to Terminal Trove! Your efforts are greatly appreciated.
 </details>
 
----------------------
+
 
 
 <details>
@@ -163,7 +161,7 @@ Thank you again for contributing to Terminal Trove! Your efforts are greatly app
 
 
 
----------------------
+
 
 <details>
   <summary>🕒 Last Updated</summary>
